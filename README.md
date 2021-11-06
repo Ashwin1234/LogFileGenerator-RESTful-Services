@@ -1,4 +1,4 @@
-# Homework 3
+# Homework 3 - Ashwin Bhaskar Srivatsa
 The main aim of this assignment is to build a lambda function using API gateway and access it using gRPC and http calls. <br>
 youtube - [video](https://www.youtube.com/watch?v=V07-cGly2AE)
 ## Prerequisites
@@ -15,7 +15,7 @@ Create an AWS account <br>
 Navigate to AWS lambda and create a function and specify the name of the function. Add permissions by creating a role with 2 polices ```cloudwatch logs ``` and ```s3 acces``` <br>
 create a Fat JAR of the project with the Lambda function. <br>
 Upload the JAR and create the function.<br>
-Test the function and add a trigger to create an API endpoint using API Gateway.<br>
+Test the function and add a trigger to create an API endpoint using API Gateway.<br>git 
 
 
 ## Project Structure
