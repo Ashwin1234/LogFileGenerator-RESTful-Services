@@ -15,7 +15,7 @@ Create an AWS account <br>
 Navigate to AWS lambda and create a function and specify the name of the function. Add permissions by creating a role with 2 polices ```cloudwatch logs ``` and ```s3 acces``` <br>
 create a Fat JAR of the project with the Lambda function. <br>
 Upload the JAR and create the function.<br>
-Test the function and add a trigger to create an API endpoint using API Gateway.<br>git 
+Test the function and add a trigger to create an API endpoint using API Gateway.<br>
 
 
 ## Project Structure
