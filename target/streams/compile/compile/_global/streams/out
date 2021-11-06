@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\src\main\scala\lambda\LambdaServiceRest.scala:77:31: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: None[0m
+[0m[[0m[33mwarn[0m] [0m[0m      pattern.findFirstMatchIn(value) match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m2 deprecations[0m
+[0m[[0m[33mwarn[0m] [0m[0m1 deprecation (since 2.13.0)[0m
+[0m[[0m[33mwarn[0m] [0m[0m3 deprecations in total; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m

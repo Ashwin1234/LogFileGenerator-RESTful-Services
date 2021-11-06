@@ -1,0 +1,75 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\logrestfullservices_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Client[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client\ClientMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Client\ClientMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client\ClientMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Client\ClientMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client\LogClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Client\LogClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Client\LogClientRest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Client\LogClientRest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Demo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Demo.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Demo.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	input.log[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\input.log[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lambda[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\lambda[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lambda\LambdaService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\lambda\LambdaService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lambda\LambdaServiceRest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\lambda\LambdaServiceRest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheck$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheck$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheck$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheck.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheckBlockingClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheckBlockingClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheckBlockingStub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheckBlockingStub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheckBlockingStub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheckBlockingStub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheckStub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheckStub$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc$LogCheckStub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc$LogCheckStub.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogCheckGrpc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogCheckGrpc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogProto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogProto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogProto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogProto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogRequest$LogRequestLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogRequest$LogRequestLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogResponse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogResponse$LogResponseLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogResponse$LogResponseLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log\LogResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log\LogResponse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Log.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service\LogService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\service\LogService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service\LogService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\service\LogService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service\LogsOutput.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\service\LogsOutput.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

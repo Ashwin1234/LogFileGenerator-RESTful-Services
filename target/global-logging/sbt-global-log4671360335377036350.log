@@ -1,0 +1,119 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(early(addDefaultCommands), None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(addDefaultCommands, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(early(initialize), None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(initialize, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(boot, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(writeSbtVersion, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(reload, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtStashOnFailure, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(onFailure loadFailed, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(loadp, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mwelcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_301)[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.loadUnit: plugins took 155.5453ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.loadUnit: defsScala took 0.3745ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Scanning directory C:\Users\Ashwin\.sbt\1.0\plugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Found non-root projects [0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in C:\Users\Ashwin\.sbt\1.0\plugins, returning: ()[0m
+[0m[[0m[0mdebug[0m] [0m[0mdeducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))[0m
+[0m[[0m[0mdebug[0m] [0m[0m  :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)[0m
+[0m[[0m[0mdebug[0m] [0m[0mPlugins.deducer#function took 24.8889 ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m          Load.resolveProject(global-plugins) took 61.2353ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m        Load.loadTransitive: finalizeProject(Project(id global-plugins, base: C:\Users\Ashwin\.sbt\1.0\plugins, plugins: List(<none>))) took 123.4927ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in C:\Users\Ashwin\.sbt\1.0\plugins, returning: (global-plugins)[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.loadUnit: loadedProjectsRaw took 153.5492ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.loadUnit: cleanEvalClasses took 0.3607ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Load.loadUnit(file:/C:/Users/Ashwin/.sbt/1.0/plugins/, ...) took 318.8211ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Load.apply: load took 531.5781ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Load.apply: resolveProjects took 7.1295ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Load.apply: finalTransforms took 85.2379ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Load.apply: config.delegates took 16.2993ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Load.apply: Def.make(settings)... took 611.9986ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Load.apply: structureIndex took 151.4438ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Load.apply: mkStreams took 3.286ms[0m
+[0m[[0m[0minfo[0m] [0m[0mloading global plugins from C:\Users\Ashwin\.sbt\1.0\plugins[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mLoad.defaultLoad until apply took 4241.2537ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m          Load.loadUnit: plugins took 42.5164ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m          Load.loadUnit: defsScala took 0.008ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Scanning directory C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\project[0m
+[0m[[0m[0mdebug[0m] [0m[0m            Load.loadUnit: mkEval took 12.0352ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Found non-root projects [0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\project, returning: ()[0m
+[0m[[0m[0mdebug[0m] [0m[0mdeducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mClause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))[0m
+[0m[[0m[0mdebug[0m] [0m[0m  :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)[0m
+[0m[[0m[0mdebug[0m] [0m[0mPlugins.deducer#function took 3.2641 ms[0m
+[0m[[0m[0minfo[0m] [0m[0mloading settings for project logrestfullservices-build from plugins.sbt,scalapb.sbt ...[0m
+[0m[[0m[0mdebug[0m] [0m[0m              Load.resolveProject(logrestfullservices-build) took 8.7461ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m            Load.loadTransitive: finalizeProject(Project(id logrestfullservices-build, base: C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\project, plugins: List(<none>))) took 13.0782ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m[Loading] Done in C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\project, returning: (logrestfullservices-build)[0m
+[0m[[0m[0mdebug[0m] [0m[0m          Load.loadUnit: loadedProjectsRaw took 302.8098ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m          Load.loadUnit: cleanEvalClasses took 9.565ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m        Load.loadUnit(file:/C:/Users/Ashwin/Documents/CS%20441/Assignment%203/LogRestFullServices/project/, ...) took 356.8046ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.apply: load took 359.4312ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.apply: resolveProjects took 0.442ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.apply: finalTransforms took 21.5091ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.apply: config.delegates took 0.8323ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.apply: Def.make(settings)... took 125.8313ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.apply: structureIndex took 44.5022ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m      Load.apply: mkStreams took 0.0068ms[0m
+[0m[[0m[0minfo[0m] [0m[0mloading project definition from C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\project[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[31merror[0m] [0m[0m## Exception when compiling 0 sources to C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\project\target\scala-2.12\sbt-1.0\classes[0m
+[0m[[0m[31merror[0m] [0m[0mjava.lang.OutOfMemoryError[0m
+[0m[[0m[31merror[0m] [0m[0msun.misc.Unsafe.allocateMemory(Native Method)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.nio.DirectByteBuffer.<init>(DirectByteBuffer.java:127)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.nio.ByteBuffer.allocateDirect(ByteBuffer.java:311)[0m
+[0m[[0m[31merror[0m] [0m[0msun.nio.ch.Util.getTemporaryDirectBuffer(Util.java:241)[0m
+[0m[[0m[31merror[0m] [0m[0msun.nio.ch.IOUtil.read(IOUtil.java:195)[0m
+[0m[[0m[31merror[0m] [0m[0msun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:159)[0m
+[0m[[0m[31merror[0m] [0m[0msun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)[0m
+[0m[[0m[31merror[0m] [0m[0msun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)[0m
+[0m[[0m[31merror[0m] [0m[0msun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.nio.file.Files.read(Files.java:3105)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.nio.file.Files.readAllBytes(Files.java:3158)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.HashUtil$.farmHash(HashUtil.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.FarmHash$.ofPath(Stamp.scala:89)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.Stamper$.$anonfun$forFarmHashP$2(Stamp.scala:196)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.Stamper$.tryStamp(Stamp.scala:188)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.Stamper$.$anonfun$forFarmHashP$1(Stamp.scala:196)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.caching.ClasspathCache$.genFileHash(ClasspathCache.scala:44)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.caching.ClasspathCache$.fromCacheOrHash$1(ClasspathCache.scala:64)[0m
+[0m[[0m[31merror[0m] [0m[0msbt.internal.inc.caching.ClasspathCache$.$anonfun$hashClasspath$1(ClasspathCache.scala:71)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.mutable.ParArray$Map.leaf(ParArray.scala:659)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.Task.$anonfun$tryLeaf$1(Tasks.scala:53)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.util.control.Breaks$$anon$1.catchBreak(Breaks.scala:67)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.Task.tryLeaf(Tasks.scala:56)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.Task.tryLeaf$(Tasks.scala:50)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.mutable.ParArray$Map.tryLeaf(ParArray.scala:650)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.AdaptiveWorkStealingTasks$WrappedTask.compute(Tasks.scala:153)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.AdaptiveWorkStealingTasks$WrappedTask.compute$(Tasks.scala:149)[0m
+[0m[[0m[31merror[0m] [0m[0mscala.collection.parallel.AdaptiveWorkStealingForkJoinTasks$WrappedTask.compute(Tasks.scala:440)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.util.concurrent.RecursiveAction.exec(RecursiveAction.java:189)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1067)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1703)[0m
+[0m[[0m[31merror[0m] [0m[0mjava.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:172)[0m
+[0m[[0m[31merror[0m] [0m[0m           [0m

@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+// The greeting service definition.
+service LogCheck {
+  // Sends a greeting
+  rpc check (LogRequest) returns (LogResponse) {}
+}
+
+// The request message containing the user's name.
+message LogRequest {
+  string time = 1;
+  string time_interval=2;
+}
+
+// The response message containing the greetings
+message LogResponse {
+  bool status = 1;
+}
+

@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\src\main\protobuf\Demo.scala,C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Demo.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\src\main\protobuf\Log.proto,C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\Log.proto)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\src\main\resources\application.conf,C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\src\main\resources\input.log,C:\Users\Ashwin\Documents\CS 441\Assignment 3\LogRestFullServices\target\scala-2.13\classes\input.log)[0m
